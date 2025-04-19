@@ -4,7 +4,7 @@
 //Description: Students will build a C++ superhero database that stores and manipulates information about lesser-known superheroes. The program will allow users to search, sort, and analyze superhero data using multidimensional and parallel arrays, along with string manipulation functions.
 
 
-# #include <iostream>
+#include <iostream>
 #include <string>
 #include <algorithm> // for sort
 #include <cctype>    // for toupper, tolower
